@@ -1,1 +1,2 @@
 This is the Info file.
+I have made a change.
