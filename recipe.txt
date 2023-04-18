@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 I am cooking chicken.
-=======
-I am cooking noodles.
->>>>>>> f2
 I am from Kolkata.
 I am from West Bengal.
